@@ -1,0 +1,4 @@
+CSS pseudo classes 
+  - Selector: pseudo-class{
+      property value
+  }
